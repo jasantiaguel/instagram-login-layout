@@ -1,9 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
-import Button from '@/components/Button'
 import Footer from '@/components/Footer'
-import Input from '@/components/Input'
 import React from 'react'
 import Panel from '@/components/Panel'
 
