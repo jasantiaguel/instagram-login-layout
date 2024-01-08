@@ -16,13 +16,13 @@
 }
 
 /* Mobile */
-@media (max-width: 700px) {
+@media (max-width: 414px) {
   .containerPhoto {
     display: none;
   }
 }
   /* Tablet and Smaller Desktop */
-@media (min-width: 701px) and (max-width: 1100px) {
+@media (min-width: 415px) and (max-width: 820px) {
   .containerPhoto {
     display: none;
   }
