@@ -1,0 +1,10 @@
+.input {
+    align-items: center;
+    min-width: 75%;
+    min-height: 8%;
+    margin: 3px;
+    padding-left: 2%;
+    border: 1px solid var(--gray);
+    border-radius: 3px;
+    background-color: var(--lightgray);
+}

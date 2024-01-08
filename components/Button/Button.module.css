@@ -1,0 +1,10 @@
+.button {
+    background-color: var(--blue);
+    border: none;
+    border-radius: 8px;
+    min-width: 78%;
+    min-height: 8%;
+    color: white;
+    margin: 4%;
+    font-weight: bold;
+}
