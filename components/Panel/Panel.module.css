@@ -57,3 +57,13 @@
     display: flex;
     align-items: center;
 }
+
+/* Mobile */
+@media (max-width: 414px) {
+    .container1 {
+      border: none;
+    }
+    .container2 {
+      border: none;
+    }
+  }
